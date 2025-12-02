@@ -47,6 +47,6 @@ export ANIMAL_API_KEY="your_api_key_here"
 python3 animal_auth_personal.py
 
 
-- What I Learned
+-What I Learned
   
 While building this tool, I learned how to interact with an existing REST API using Python’s requests library. I gained experience making HTTP GET requests with query parameters and parsing JSON responses to extract useful information. I also learned how to handle common issues such as invalid keys or unexpected API responses, and how to design a simple terminal interface to display results clearly for the user. This project strengthened my understanding of how client-side programs communicate with web APIs in real-world applications.
