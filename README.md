@@ -16,7 +16,7 @@ Handles basic error cases (invalid username, network failure, missing fields)
 -Project Structure
 - `memory_assist.py` – main script containing all logic
 
--How to Run (in Linux)
+-How to Run (on Linux)
 1. Install dependencies:
 
 pip install requests
