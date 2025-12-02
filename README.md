@@ -19,16 +19,14 @@ Handles basic error cases (invalid username, network failure, missing fields)
 -How to Run
 1. Install dependencies:
 
-```bash
 pip install requests
 
 2. Clone the repository:
-
-```bash
+   
 git clone https://github.com/richardkapsh/Memory-assist
 
-3. Move into the project directory
-```bash
+4. Move into the project directory
+
 cd Memory-assist
 
 4. API Key Requirement
@@ -42,13 +40,12 @@ c. Generate an API key
 d. Export it as the `ANIMAL_API_KEY` environment variable:
 
 **Mac/Linux**
-```bash
+
 export ANIMAL_API_KEY="your_api_key_here"
 
 
 5. Run the script:
 
-```bash
 python3 animal_auth_personal.py
 
 
