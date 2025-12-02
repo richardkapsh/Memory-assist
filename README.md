@@ -39,8 +39,6 @@ b. Create a free account
 c. Generate an API key
 d. Export it as the `ANIMAL_API_KEY` environment variable:
 
-**Mac/Linux**
-
 export ANIMAL_API_KEY="your_api_key_here"
 
 
