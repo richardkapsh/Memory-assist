@@ -25,7 +25,7 @@ pip install requests
    
 git clone https://github.com/richardkapsh/Memory-assist
 
-4. Move into the project directory
+3. Move into the project directory
 
 cd Memory-assist
 
